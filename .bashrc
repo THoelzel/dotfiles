@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-readonly POWERLINE_FONT='1'
+export POWERLINE_FONT='1'
+export DIRECTORY_BG_COLOR=4
 
 source ~/.powerline.bash
 
