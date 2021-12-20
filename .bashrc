@@ -13,5 +13,4 @@ git config --global alias.logline "log --graph --pretty=format:'%Cred%h%Creset -
 alias weather='curl -s4 wttr.in'
 alias grep='grep --color=auto'
 alias c='clear'
-alias tf='aws-vault exec main -- terraform'
 alias amend='git commit --amend --no-edit'
