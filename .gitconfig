@@ -1,0 +1,4 @@
+[merge]
+        conflictStyle = diff3
+[diff]
+        algorithm = histogram
